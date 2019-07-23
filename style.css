@@ -1,0 +1,70 @@
+.boogle {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    font-size: 15px;
+    text-align: center;
+    display: block;
+}
+
+.sign-in {
+   position: absolute;
+    top: 25%;
+    text-align: center;
+    width: 100%;
+}
+
+.box {
+    top: 25%;
+    text-align: center;
+    border: 2px solid yellow;
+    border-radius: 10px 25px;
+    width: 300px;
+    left: 39%;
+    display: inline-block;
+
+}
+
+
+.searchterm {
+    font-size: 20px;
+}
+.next {
+  background-color: yellow;
+  color: green;
+  padding: 4px 105px;
+}
+
+.help {
+    margin-left: 175px;
+    font-size: 15px;
+}
+
+.account {
+    position: absolute;
+    text-align: center;
+    bottom: 30%;
+    font-size: 15px;
+    width: 100%;
+
+}
+
+.everything {
+    position: absolute;
+    text-align: center;
+    bottom: 25%;
+    font-size: 15px;
+    width: 100%;
+    color: yellow;
+}
+
+.terms {
+    position: absolute;
+    bottom: 10px;
+    font-size: 15px;
+    color: yellow;
+    display: inline;
+    margin-left: 10px;
+    left: 15px;
+}
+
